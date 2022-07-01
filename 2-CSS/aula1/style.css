@@ -1,0 +1,15 @@
+body {
+    background-color: red;
+}
+
+.verde {
+    color: green;
+}
+
+.foto {
+    width: 500px;
+}
+
+#titulo-principal {
+    color: yellow;
+} 
