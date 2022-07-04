@@ -1,0 +1,14 @@
+body {
+    background: pink;
+}
+
+ul {
+    background: gray;
+    padding: 15px;
+    opacity: 0.4;
+}
+
+ul li {
+    display: inline;
+    margin: 5px;
+}
